@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right,#0052d4,#65c7f7,#9cecfb);
+}
+.Cotainer{
+    width: 70%;
+    margin: auto;
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+nav a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+.Browser{
+    display: inline;
+    text-decoration: none;
+    color: black;
+}
+.Lock{
+    margin-left: 20px;
+    text-align: justify;
+    margin-right: 20px;
+}
+@import 
+url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
